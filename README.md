@@ -7,7 +7,7 @@ Frontend Engineer
 I like to create memorable digital experiences on the web.
 
 
-*   🧠  I'm learning React and SCSS
+*   🧠  I write REACT AND JAVASCRIPT 
 *   🤝  I'm open to collaborating on Web2 projects
 
 
