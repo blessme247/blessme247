@@ -7,7 +7,7 @@ Frontend Engineer
 I like to create memorable digital experiences on the web.
 
 
-*   🧠  I write REACT AND JAVASCRIPT 
+*   🧠  I build web applications with ReactJS, NextJS, JavaScript and TypeScript 
 *   🤝  I'm open to collaborating on Web2 projects
 
 
