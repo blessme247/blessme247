@@ -4,10 +4,9 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Fullstack Engineer
 -----------------
 
-I build scalable web and mobile applications.
+I build scalable web2, web3 and mobile applications.
 
 
-*   🧠  I build web applications with ReactJS, NextJS, JavaScript and TypeScript 
 *   🤝  I'm open to collaborations on products that solve real world problems.
 
 
